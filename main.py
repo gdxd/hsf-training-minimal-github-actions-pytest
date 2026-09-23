@@ -1,2 +1,3 @@
 def should_return_2():
-    return 2.1
+    return 4
+
